@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #6E0808;
+}
+strong{
+    color: #FFEFEF;
+}
+.Logo{
+    border-radius: 34px ;
+}
+.botoes{
+    width: 283px;
+    height: 70px;
+    background-color: black;
+    border: solid 8px;
+    border-color: white;
+}
+span{
+    color: white;
+    font-family: 'Jaini', 'Courier New', Courier;
+    font-size: 25px;
+}
+.secao1{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
