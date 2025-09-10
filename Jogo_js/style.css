@@ -26,7 +26,43 @@ span{
 .secao1{
     height: 100vh;
     display: flex;
-    align-items: center;
     justify-content: center;
     text-align: center;
+}
+.secao2{
+    height: 100vh;
+    display: flex;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.secao3{
+    height: 500px;
+    display: flex;
+    text-align: center;
+}
+.secao4{
+    height: 100px;
+    display: flex;
+    margin-top: -500px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.div1{
+    height: 450px;
+}
+.div2{
+    height: 100px;
+}
+.div3{
+    display: grid;
+    grid-template-columns: 50%;
+    margin-left: 350px;
+    margin-top: -200px;
+}
+.div4{
+    width: 550px;
+    justify-content: left;
 }
